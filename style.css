@@ -41,7 +41,7 @@ h3 {
 }
 
 p{
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 .link-button{
     text-decoration: none;
@@ -55,6 +55,7 @@ p{
 .link-button:hover{
     background-image: linear-gradient(tomato, orange);
     box-shadow: 5px 5px 15px gray;
+    font-size: 15px;
 
 }
 
@@ -73,7 +74,7 @@ p{
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
-    padding-left: 10px;
+    padding-left: 3%;
     border-radius: 10px;
     box-shadow: 10px 10px 30px gray;
 }
