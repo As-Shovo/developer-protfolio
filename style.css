@@ -35,6 +35,9 @@ h2{
     width: 80%;
 }
 
+p{
+    margin-bottom: 20px;
+}
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
@@ -79,6 +82,7 @@ h2{
     border-left: 7px solid;
     border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
+    padding: 20px 20px;
 }
 
 footer p{
